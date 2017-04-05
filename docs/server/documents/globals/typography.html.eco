@@ -1,0 +1,31 @@
+---
+layout      : 'default'
+css         : 'site'
+element     : 'site'
+elementType : 'global'
+standalone  : true
+
+title       : 'Typography'
+description : 'Information about typography'
+type        : 'UI Global'
+themes      : ['Default', 'GitHub', 'Material', 'Starfish']
+
+---
+<link rel="stylesheet/less" type="text/css" href="/src/definitions/globals/site.less" />
+<link rel="stylesheet/less" type="text/css" href="/src/definitions/elements/button.less" />
+<link rel="stylesheet/less" type="text/css" href="/src/definitions/elements/header.less" />
+<link rel="stylesheet/less" type="text/css" href="/src/definitions/collections/grid.less" />
+<link rel="stylesheet/less" type="text/css" href="/src/definitions/elements/list.less" />
+<link rel="stylesheet/less" type="text/css" href="/src/definitions/modules/sidebar.less" />
+
+<%- @partial('header') %>
+
+<div class="main ui container">
+
+  <h2 class="ui dividing header">Typography</h2>
+
+  <p>This is a paragraph</p>
+
+  
+
+</div>

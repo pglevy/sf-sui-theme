@@ -1,0 +1,558 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-top: "
+			],
+			[
+				"padd",
+				"padding-left: "
+			],
+			[
+				"out",
+				"outside"
+			],
+			[
+				"ins",
+				"inside"
+			],
+			[
+				"i",
+				"inside"
+			],
+			[
+				"list",
+				"list-style-position: "
+			],
+			[
+				"d",
+				"disc"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"plan",
+				"planCreation"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"purple",
+				"purple150"
+			],
+			[
+				"oran",
+				"orange10"
+			],
+			[
+				"back",
+				"background-color: "
+			],
+			[
+				"sfblue",
+				"sfblue"
+			],
+			[
+				"sf",
+				"sfblue"
+			],
+			[
+				"gr",
+				"gray25"
+			],
+			[
+				"sfb",
+				"sfblue10"
+			],
+			[
+				"gray",
+				"gray10"
+			],
+			[
+				"gra",
+				"gray25"
+			],
+			[
+				"sfbl",
+				"sfblue25"
+			],
+			[
+				"orange",
+				"orange"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 367.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"mave",
+				"Maven: Kill running process"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 503.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/philip.levy/GitHub/sf-sui-theme/sf-sui-theme",
+		"/Users/philip.levy/Google Drive/Reference/Colors/Starfish.library/metadata.json",
+		"/Users/philip.levy/GitHub/sds/sass/sds.scss",
+		"/Users/philip.levy/GitHub/sds/sass/atoms/_tables.scss",
+		"/Users/philip.levy/Google Drive/Projects/Starfish Design System/Code Examples/design-system-master/ui/dependencies/_layout.scss",
+		"/Users/philip.levy/Google Drive/Projects/Starfish Design System/Code Examples/design-system-master/ui/utilities/spacing/flavors/padding/index.react.example.jsx",
+		"/Users/philip.levy/sass-test/config.rb",
+		"/Users/philip.levy/sass-test/stylesheets/sds.css",
+		"/Users/philip.levy/sass-test/index.html",
+		"/Users/philip.levy/sass-test/sass/sds.scss",
+		"/Users/philip.levy/Google Drive/Projects/Starfish Design System/Code Examples/Skeleton-2.0.4/css/skeleton.css",
+		"/Users/philip.levy/Google Drive/Projects/Starfish Design System/Code Examples/Skeleton-2.0.4/css/normalize.css",
+		"/Users/philip.levy/sass-test/sass/sds.sass",
+		"/Users/philip.levy/Google Drive/Reference/SF UI/Hobsons SASS/hbs.sass",
+		"/Users/philip.levy/Downloads/design-system-master/ui/dependencies/_root.scss",
+		"/Users/philip.levy/Downloads/design-system-master/site/assets/styles/_site/_site-typography.scss",
+		"/Users/philip.levy/Downloads/design-system-master/site/assets/styles/_site/dependencies/_typography.scss",
+		"/Users/philip.levy/Downloads/design-system-master/ui/vendor/_normalize.scss",
+		"/Users/philip.levy/Downloads/design-system-master/ui/components/lookups/_index.scss",
+		"/Users/philip.levy/Downloads/SassColorMixin/README.md",
+		"/Users/philip.levy/Downloads/SassColorMixin/example-usage.scss",
+		"/Users/philip.levy/Downloads/SassColorMixin/_ibm-colors.scss",
+		"/Users/philip.levy/dprepo/gradsite/templates/gradplan/sfplan/browse_programs.html",
+		"/Users/philip.levy/dprepo/gradsite/static/sfplan/css/plan.css",
+		"/Users/philip.levy/dprepo/gradsite/gradaudit/templatetags/taken_college_compare.py",
+		"/Users/philip.levy/sfrepos/starfish-trunk/src/main/webapp/styles/sf.kiosk.scss",
+		"/Users/philip.levy/Google Drive/Projects/Pattern Lab/patternlab2-example/README.md",
+		"/Users/philip.levy/dprepo/gradsite/static/sfplan/css/style_guide.css",
+		"/Users/philip.levy/dprepo/gradsite/static/sfplan/css/main-ryan.css",
+		"/Users/philip.levy/dprepo/gradsite/school_settings/aws_settings.py",
+		"/Users/philip.levy/Google Drive/Projects/Hobsons U UX Lab/Starfish Feature List (for pareto survey question)",
+		"/Users/philip.levy/dprepo/gradsite/static/sfplan/css/main-tommy.css",
+		"/Users/philip.levy/dprepo/gradsite/static/sfplan/css/common.css",
+		"/Users/philip.levy/dprepo/gradsite/static/js/autofill_progress.js",
+		"/Users/philip.levy/dprepo/gradsite/templates/gradplan/plan_details.html",
+		"/Users/philip.levy/dprepo/gradsite/templates/gradadvise/student/progress_script.html",
+		"/Users/philip.levy/dprepo/gradsite/static/ui2/css/jquery-theme/jquery-ui.css",
+		"/Users/philip.levy/dprepo/gradsite/templates/gradplan/sfplan/plan_settings.html",
+		"/Users/philip.levy/dprepo/gradsite/templates/gradplan/sfplan/req_switch_modal.html",
+		"/Users/philip.levy/dprepo/gradsite/templates/gradplan/sfplan/req_override_modal.html",
+		"/Users/philip.levy/dprepo/gradsite/templates/gradplan/sfplan/plan_feedback.html",
+		"/Users/philip.levy/dprepo/gradsite/templates/gradadvise/student/progress.html",
+		"/Users/philip.levy/dprepo/gradsite/static/css/gencombined.r1463516893.css",
+		"/Users/philip.levy/dprepo/gradsite/templates/gradplan/sfplan/history.html",
+		"/Users/philip.levy/dprepo/gradsite/templates/gradplan/sfplan/plan_confirm_delete.html",
+		"/Users/philip.levy/dprepo/gradsite/templates/gradplan/sfplan/student_records.html",
+		"/Users/philip.levy/dprepo/gradsite/templates/gradplan/sfplan/transfer_details.html",
+		"/Users/philip.levy/dprepo/gradsite/templates/gradplan/sfplan/navigation_bar.html",
+		"/Users/philip.levy/dprepo/gradsite/templates/gradplan/gueststudent/plans.html",
+		"/Users/philip.levy/dprepo/gradsite/templates/gradplan/sfplan/plans.html",
+		"/Users/philip.levy/dprepo/gradsite/locale/es/LC_MESSAGES/django.po",
+		"/Users/philip.levy/dprepo/gradsite/gradplan/sfplan.py",
+		"/Users/philip.levy/dprepo/gradsite/gradplan/models.py",
+		"/Users/philip.levy/dprepo/gradsite/gradplan/ajax.py",
+		"/Users/philip.levy/dprepo/gradsite/templates/gradplan/sfplan/schedule_options_modal.html",
+		"/Users/philip.levy/dprepo/gradsite/templates/gradplan/sfplan/add_any_course.html",
+		"/Users/philip.levy/dprepo/gradsite/gradplan/tests/test_schedule_view.py",
+		"/Users/philip.levy/dprepo/gradsite/templates/gradplan/sfplan/view_schedule_nav.html",
+		"/Users/philip.levy/dprepo/gradsite/templates/gradplan/sfplan/req_gpa.html",
+		"/Users/philip.levy/dprepo/gradsite/static/ui2/css/dropit_sf.css",
+		"/Users/philip.levy/dprepo/gradsite/templates/gradplan/sfplan/transfer.html",
+		"/Users/philip.levy/dprepo/gradsite/templates/gradplan/sfplan/view_plan.html",
+		"/Users/philip.levy/sfrepos/starfish-trunk/src/main/webapp/scripts/SF/kiosk/DetailsPanel.js",
+		"/Users/philip.levy/Google Drive/Projects/SF Kiosk July 2016/Visual Design/starfish-kiosk-design-v.1.0(specs)/guidelines.sass",
+		"/Users/philip.levy/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/philip.levy/Desktop/plans.html",
+		"/var/folders/rb/n997dnzs7c19z2yddq8vz6dm0000gq/T/sublime-svn-1460469459/SVN",
+		"/var/folders/rb/n997dnzs7c19z2yddq8vz6dm0000gq/T/sublime-svn-1460469441/SVN",
+		"/var/folders/rb/n997dnzs7c19z2yddq8vz6dm0000gq/T/sublime-svn-1460469354/SVN",
+		"/Users/philip.levy/sfrepos/starfish-trunk/src/main/webapp/styles/common/_mixins.scss",
+		"/Users/philip.levy/sfrepos/starfish-trunk/target/starfish-dev/scripts/starfish/starfishCommons.js",
+		"/Users/philip.levy/sfrepos/starfish-trunk/src/main/webapp/styles/sf.theme.scss",
+		"/Users/philip.levy/sfrepos/starfish-trunk/src/main/webapp/scripts/starfish/starfishCommons.js",
+		"/Users/philip.levy/sfrepos/starfish-trunk/pom.xml",
+		"/Users/philip.levy/sfrepos/starfish-trunk/src/main/webapp/scripts/SF/attendance/RecordAttendanceWindow.js",
+		"/Users/philip.levy/sfrepos/starfish-trunk/src/main/webapp/styles/theme/sf.scss",
+		"/Users/philip.levy/sfrepos/starfish-trunk/src/main/webapp/scripts/SF/admin/report/degreePlanner/DPReportPanel.js",
+		"/Users/philip.levy/sfrepos/starfish-trunk/target/starfish-dev/styles/theme/sf.scss",
+		"/Users/philip.levy/sfrepos/starfish-trunk/src/main/webapp/styles/sf.specifics.scss",
+		"/Users/philip.levy/sfrepos/starfish-trunk/src/main/webapp/styles/sf.default.scss",
+		"/Users/philip.levy/sfrepos/starfish-trunk/src/main/webapp/scripts/thirdParty/extjs/ext-all-debug.js",
+		"/Users/philip.levy/sfrepos/starfish-trunk/src/main/webapp/styles/extjs/ext-all-notheme.css",
+		"/Users/philip.levy/sfrepos/sfrepos.sublime-project",
+		"/Users/philip.levy/sfrepos/starfish-trunk/src/main/webapp/styles/GroupTab.scss",
+		"/Users/philip.levy/Library/Application Support/Sublime Text 2/Packages/SVN/SVN.sublime-settings",
+		"/Users/philip.levy/Library/Application Support/Sublime Text 2/Packages/User/SVN.sublime-settings",
+		"/Users/philip.levy/sfrepos/starfish-trunk/src/main/webapp/WEB-INF/wro.xml",
+		"/Users/philip.levy/sfrepos/starfish-trunk/src/main/webapp/styles/sf.icons.scss",
+		"/Users/philip.levy/sfrepos/starfish-trunk/src/main/webapp/scripts/SF/attendance/AttendanceAbsentStudentsPanel.js",
+		"/Users/philip.levy/sfrepos/starfish-trunk/src/main/webapp/styles/theme/overrides.scss",
+		"/Users/philip.levy/sfrepos/starfish-trunk/src/main/webapp/styles/landingpage.scss",
+		"/Users/philip.levy/sfrepos/starfish-trunk/target/starfish-dev/WEB-INF/wro.xml",
+		"/Users/philip.levy/sfrepos/starfish-trunk/target/starfish-dev/styles/landingpage.scss",
+		"/Users/philip.levy/sfrepos/starfish-trunk/target/starfish-dev/styles/sf.default.scss",
+		"/Users/philip.levy/GitHub/sf-css/theme.css",
+		"/Users/philip.levy/Google Drive/Projects/SF UI/SCSS/colors.sublime-project",
+		"/Users/philip.levy/Google Drive/Projects/SF UI/CSS/theme.css",
+		"/Users/philip.levy/Google Drive/Projects/SF UI/SCSS/theme-scss/sf.scss",
+		"/Users/philip.levy/Google Drive/Projects/SF UI/SCSS/theme-scss/sf.theme.scss",
+		"/Users/philip.levy/Google Drive/Projects/SF UI/SCSS/specifics-scss/sf.specifics.scss",
+		"/Users/philip.levy/Google Drive/Projects/SF UI/SCSS/color-scss/colors.scss",
+		"/Users/philip.levy/Google Drive/Projects/SF UI/CSS/specifics.css",
+		"/Users/philip.levy/Google Drive/Projects/SF UI/SCSS/theme-scss/GroupTab.scss",
+		"/Users/philip.levy/Google Drive/Projects/SF UI/SCSS/color-scss/_colors.scss",
+		"/Users/philip.levy/Google Drive/Projects/SF UI/SCSS/other-scss/sf.accessibility.scss",
+		"/Users/philip.levy/Google Drive/Projects/SF UI/SCSS/plugins-scss/Ext.ux.Schedule.css",
+		"/Users/philip.levy/Google Drive/Projects/SF UI/Starfish CSS.sublime-project",
+		"/Users/philip.levy/Google Drive/Projects/SF Color Palette/SCSS/color-scss/_colors.scss",
+		"/Users/philip.levy/Google Drive/Projects/SF Color Palette/SCSS/color-scss/colors.scss",
+		"/Users/philip.levy/Google Drive/Projects/SF Color Palette/SCSS/specifics-scss/sf.specifics.scss",
+		"/Users/philip.levy/Google Drive/Projects/SF Color Palette/SCSS/plugins-scss/Ext.ux.Schedule.css",
+		"/Users/philip.levy/Google Drive/Projects/SF Color Palette/SCSS/theme-scss/sf.scss",
+		"/Users/philip.levy/Google Drive/Projects/SF Color Palette/SCSS/theme-scss/sf.theme.scss",
+		"/Users/philip.levy/Google Drive/Projects/SF Color Palette/SCSS/theme-scss/GroupTab.scss",
+		"/Users/philip.levy/Google Drive/Projects/SF Color Palette/SCSS/plugins-scss/Ext.ux.form.HtmlEditor.FieldSelector.scss",
+		"/Users/philip.levy/Google Drive/Projects/SF Color Palette/SCSS/base-scss/sf.default.scss",
+		"/Users/philip.levy/Google Drive/Projects/SF Color Palette/SCSS/theme-scss/overrides.scss",
+		"/Users/philip.levy/Google Drive/Projects/SF Color Palette/SCSS/plugins-scss/Ext.ux.UploadDialog.css",
+		"/Users/philip.levy/Google Drive/Projects/SF Color Palette/SCSS/other-scss/sf.print.scss",
+		"/Users/philip.levy/Google Drive/Projects/SF Color Palette/SCSS/other-scss/sf.icons.scss",
+		"/Users/philip.levy/Google Drive/Projects/SF Color Palette/SCSS/other-scss/sf.accessibility.scss",
+		"/Users/philip.levy/Google Drive/Projects/SF Color Palette/SCSS/other-scss/landingpage.scss",
+		"/Users/philip.levy/Google Drive/Projects/SF Color Palette/SCSS/other-scss/sf.default.scss",
+		"/Users/philip.levy/Library/Application Support/Sublime Text 2/Packages/RegReplace/Default.sublime-commands",
+		"/Users/philip.levy/Library/Application Support/Sublime Text 2/Packages/User/reg_replace.sublime-settings",
+		"/Users/philip.levy/Library/Application Support/Sublime Text 2/Packages/RegReplace/reg_replace.sublime-settings",
+		"/Users/philip.levy/Google Drive/Projects/SF Color Palette/CSS/specifics.css",
+		"/Users/philip.levy/Google Drive/Projects/SF Color Palette/CSS/base.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"-ext-all.js, -ext-all.css",
+			"-ext-all.js",
+			"",
+			"-*.scss",
+			"-sf.default-pre-regex.scss, -_colors.scss, -colors.scss",
+			"-/Users/philip.levy/Google Drive/Projects/SF Color Palette/SCSS/Backup, -/Users/philip.levy/Google Drive/Projects/SF Color Palette/SCSS/color-scss",
+			"",
+			"-_colors.scss,-colors.scss,-*regex.scss",
+			"-_colors.scss,-*regex.scss",
+			"-_colors.scss,-*regex",
+			"-_colors.scss",
+			"",
+			"-_colors.scss",
+			"_colors.scss",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ul",
+			"li",
+			"!important",
+			"spacing-small",
+			"// Spacing",
+			"--xxx-small",
+			"spacing",
+			"m-top",
+			"slds-m-top--none",
+			"grid",
+			"font-size: 100%",
+			"body {",
+			"html {",
+			"font-size:",
+			"font-size-medium:",
+			"$line-height-text",
+			"$line-height-text:",
+			"$line-height-text",
+			"line-height-text",
+			"$font-size-medium",
+			"font-size-medium:",
+			"font-size-medium",
+			"body--regular",
+			".slds-text-body--regular",
+			"font-size-regular",
+			"clearfix",
+			"$base",
+			"12",
+			"titleForProgram",
+			"browseprogramscontroller",
+			"browseprogramcontroller",
+			"browseprograms",
+			"selectProgram",
+			"isDegreeProgram",
+			"browsepro",
+			"titleForProgram",
+			"hasPrograms",
+			"browseProgramsController",
+			"title",
+			"browseProgramsController",
+			"titleForProgram",
+			"browseProgramsController",
+			"add to your plan.",
+			"Select a program",
+			"Select a program to add to your plan",
+			":focus",
+			"from django.template.loader import render_to_string",
+			".blue",
+			"fullbtn",
+			".selectContainer:after",
+			"#3eb0f9",
+			"style_guide.css",
+			".blue",
+			"#3eb0f9",
+			".meta_text",
+			".meta",
+			"OpenSans-Bold",
+			"<title>Your Graduation Plan",
+			".requirementsTables caption.requirement_name_header",
+			"program",
+			"font-family",
+			"td + td",
+			"#009AFF",
+			"a {\n    color: #009AFF;\n}",
+			"inset 0 0 0 1px #9fd8fc, inset 0 0 0 2px #fff",
+			".blue:hover",
+			"sfplanBuildProgressBarHolder",
+			".progressbar",
+			"#progressbar",
+			"Building your plan",
+			"degree_progress_wrapper",
+			"ui-progressbar",
+			"progressbar",
+			".ui-progressbar-value",
+			"ui-progressbar-value",
+			".alert-info",
+			"alert alert-info",
+			"alert alert-success",
+			".blue:hover",
+			".planCreation",
+			"width:",
+			"#advancedSettings",
+			".course_modal_warnings_right, .course_modal_warnings_right_term_view, .course_modal_warnings_right_elective_view, .year_view_right_hand_side_warning_right",
+			"<h3 class=\"header\" style=\"margin-top:0;font-size:30px;color:#3B5369;font-weight:bold;\">",
+			"Already Met this Requirement?",
+			".selectContainer:after",
+			"Request Approval",
+			"Plan History",
+			".header-list-sub",
+			"Deleted plans cannot be recovered.",
+			".exclude-minus-column",
+			".recordsView .header",
+			"Student Records",
+			"Transfer Information",
+			".fullbtn",
+			".ui-selectmenu-menu",
+			"active-plan",
+			"container-fluid progressbar active-plan",
+			"My Plans",
+			"container-fluid progressbar active-plan",
+			"my plans",
+			"My Plans",
+			"h3.header",
+			".plancreation",
+			"container mainContent block1",
+			".maincontent",
+			"programNameHeader",
+			"class=\"programNameHeader\"",
+			".sfModal",
+			"Enter any questions or comments you have for your counselor.",
+			".elective-item .elective-item-plus",
+			".alert-warning",
+			"GradPlanFeedbackRequest",
+			"student_viewed_feedback",
+			"mort",
+			".fullbtn:hover:disabled",
+			".fullbtn",
+			".fullbtn:hover",
+			".blue:hover",
+			".schedChangeHighlight",
+			".form-group label, .row label",
+			"Reschedule My Courses",
+			"Reschedule my courses",
+			".view_panel",
+			"#D1F2A5",
+			"background-color:#D1F2A5;",
+			"sfplan_view_schedule",
+			".requirementHighlight"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" $white",
+			"$gray50",
+			"$gray25",
+			"color: $gray;",
+			"orange",
+			"bluegray",
+			"bluegray75",
+			"sfblue150",
+			"sfblue",
+			"sfblue75",
+			"sfblue50",
+			"sfblue25",
+			"sfblue10",
+			"gray150",
+			"$gray",
+			"$gray75",
+			"$gray50",
+			"$gray10",
+			"sfblue25",
+			"\",",
+			"\"#",
+			"",
+			"#",
+			"",
+			"\\t",
+			"",
+			"\\r\\r",
+			"/n/n",
+			"",
+			"\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 381.0,
+	"status_bar_visible": true
+}

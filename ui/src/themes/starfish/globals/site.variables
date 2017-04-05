@@ -6,7 +6,7 @@
        Fonts
 --------------------*/
 
-@fontName          : 'Lato';
+@fontName          : 'Open Sans';
 @fontSmoothing     : antialiased;
 
 @headerFont        : @fontName, 'Helvetica Neue', Arial, Helvetica, sans-serif;
@@ -14,7 +14,7 @@
 
 @googleFontName    : @fontName;
 @importGoogleFonts : true;
-@googleFontSizes   : '400,700,400italic,700italic';
+@googleFontSizes   : '300,400,600,700,300italic,400italic,600italic,700italic';
 @googleSubset      : 'latin';
 
 @googleProtocol    : 'https://';
@@ -25,10 +25,10 @@
 --------------------*/
 
 /* This is the single variable that controls them all */
-@emSize   : 14px;
+@emSize   : 100%;
 
 /* The size of page text  */
-@fontSize : 14px;
+@fontSize : 100%;
 
 
 /*-------------------
