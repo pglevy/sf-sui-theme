@@ -7,16 +7,16 @@
 --------------------*/
 
 /* Button */
-@verticalMargin: 0em;
-@horizontalMargin: 0.25em;
-@backgroundColor: #E0E1E2;
+@verticalMargin: 0;
+@horizontalMargin: 0;
+@backgroundColor: @sfgray-lighter;
 @backgroundImage: none;
 @background: @backgroundColor @backgroundImage;
-@lineHeight: 1em;
+@lineHeight: 1.5rem;
 
 /* Button defaults to using same height as input globally */
-@verticalPadding: @inputVerticalPadding;
-@horizontalPadding: 1.5em;
+@verticalPadding: @relativeSmall;
+@horizontalPadding: @relativeSmall;
 
 /* Text */
 @textTransform: none;

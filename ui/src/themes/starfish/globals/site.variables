@@ -25,7 +25,7 @@
 --------------------*/
 
 /* This is the single variable that controls them all */
-@emSize   : 100%;
+@emSize   : 16px;
 
 /* The size of page text  */
 @fontSize : 100%;
@@ -72,8 +72,8 @@
 
 /* This adjusts the default form input across all elements */
 @inputBackground        : @white;
-@inputVerticalPadding   : @relative11px;
-@inputHorizontalPadding : @relative14px;
+@inputVerticalPadding   : @relativeMedium;
+@inputHorizontalPadding : @relativeMedium;
 @inputPadding           : @inputVerticalPadding @inputHorizontalPadding;
 
 /* Input Text Color */
@@ -103,14 +103,14 @@
   This ensures these "ratios" remain constant despite changes in EM
 */
 
-@miniSize        : (11 / 14);
+@miniSize        : (12 / 14);
 @tinySize        : (12 / 14);
-@smallSize       : (13 / 14);
-@mediumSize      : (14 / 14);
-@largeSize       : (16 / 14);
-@bigSize         : (18 / 14);
-@hugeSize        : (20 / 14);
-@massiveSize     : (24 / 14);
+@smallSize       : (14 / 14);
+@mediumSize      : (16 / 14);
+@largeSize       : (20 / 14);
+@bigSize         : (25 / 14);
+@hugeSize        : (31 / 14);
+@massiveSize     : (39 / 14);
 
 
 /*-------------------
@@ -189,6 +189,28 @@
 /*-------------------
       Site Colors
 --------------------*/
+
+/*---  Starfish Colors ---*/
+/* Descriptive Colors */
+/* Brand */
+@sfblue: #1E70A6;
+@sforange: #CE4D12;
+@sfgray: #616365;
+
+/* Brand Tints & Shades */
+@sfblue-darker: #0B2A3E;
+@sfblue-dark: #154D72;
+@sfblue-light: #2993D8;
+@sfblue-lighter: #95C9EC;
+@sfblue-lightest: #D6EAF8;
+
+@sforange-dark: #96380D;
+@sforange-light: #ED6B30;
+@sforange-lighter: #F7BFA6;
+
+@sfgray-dark: #252628;
+@sfgray-light: #D7D8D8;
+@sfgray-lighter: #EFEFEF;
 
 /*---  Colors  ---*/
 @red              : #DB2828;
